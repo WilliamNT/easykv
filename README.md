@@ -26,4 +26,4 @@ At the moment other operating systems are not supported.
 My website is www.carayo.com. More info about this program can be found there.
 
 # Screenshots
-![Window](https://imgur.com/a/3L5MbXe)
+![Window](https://i.imgur.com/dkhfHaw.png)
