@@ -5,6 +5,15 @@ This is not an open source project. While it was coded in Python, you don't need
 
 There are 2 versions: A portable and one which you can install on your computer.
 
+# How to use
+1. Download the repository
+2. Unzip the easykv.zip file
+3. Open the unzipped folder
+4. Start the program by clicking easykv.exe
+5. You can place this folder in a location it won't be removed
+6. Now you can place a shortcut on your desktop
+7. Enjoy
+
 # Compatibility
 Windows 7 - Not tested
 Windows 8.1 - Should be compatible
