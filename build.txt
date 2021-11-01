@@ -1,0 +1,3 @@
+pyinstaller --windowed --collect-all ttkbootstrap --icon=Icon.ico easykv.pyw
+
+pyinstaller --onedir --windowed --collect-all ttkbootstrap --icon=Icon.ico --add-data="Icon.ico;." --add-data="readme.txt;." --add-data="comp_test.jpg;." --add-data="ttkbootstrap_themes.json;." easykv.pyw
