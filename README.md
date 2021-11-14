@@ -1,7 +1,7 @@
 # EasyKV
 
 If you need to generate .KV files for your CS:GO maps, I have good news for you! This tool does exactly that!
-If you are here for the final software, see the releases on the sidebar.
+If you are here for the final software, see the releases on the sidebar. Note: the code is not the best, because it was my second project.
 
 # How to use
 1. Download the current release
